@@ -5,7 +5,7 @@ const MAIL_SERVER_HOST = 'http://222.109.176.252:4200/api/mailer';
 /**
  * App ID for the skill
  */
-var APP_ID = "amzn1.ask.skill.43524157-3251-46a2-bb99-23c29834063e"; //replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
+const APP_ID = "amzn1.ask.skill.43524157-3251-46a2-bb99-23c29834063e"; //replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
 
 /**
  * The AlexaSkill prototype and helper functions
